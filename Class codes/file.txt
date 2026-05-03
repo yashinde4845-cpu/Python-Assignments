@@ -1,4 +1,0 @@
-[
-  {"name": "Shiva", "age": 20},
-  {"name": "Rahul", "age": 22}
-]
